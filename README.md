@@ -53,4 +53,4 @@ Dataset on Kaggle: [IBM HR Analytics Attrition Dataset](302243322-594474c9-b0e1-
 ## 🔗 Connect with Me
 - **Email**: (poojadeore350@gmail.com)
 - **LinkedIn**: [Deore pooja](https://www.linkedin.com/in/pooja-deore-963062265/)
-- **GitHub**: [Patilkrishnal2003](https://github.com/poojadeore350)
+- **GitHub**: [Poojadeore350](https://github.com/poojadeore350)
