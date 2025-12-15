@@ -51,6 +51,6 @@ Dataset on Kaggle: [IBM HR Analytics Attrition Dataset](302243322-594474c9-b0e1-
    - Implement mentorship programs or training initiatives to help employees develop the skills needed for career advancement.
 
 ## 🔗 Connect with Me
-- **Email**: (Patilkrishnal2003@gmail.com)
-- **LinkedIn**: [Patil Krishnal](https://linkedin.com/in/krishnal-patil-b1a5a6208/)
-- **GitHub**: [Patilkrishnal2003](https://github.com/patilkrishnal2003)
+- **Email**: (poojadeore350@gmail.com)
+- **LinkedIn**: [Deore pooja](https://www.linkedin.com/in/pooja-deore-963062265/)
+- **GitHub**: [Patilkrishnal2003](https://github.com/poojadeore350)
